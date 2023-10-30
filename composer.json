@@ -1,0 +1,16 @@
+{
+    "name": "edi/php-helpers",
+    "description": "Libs webs",
+    "autoload": {
+        "psr-4": {
+            "Edi\\PhpHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edilsonClaudinoSilva"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
