@@ -1,5 +1,5 @@
 {
-    "name": "edi/php-helpers",
+    "name": "webhelpes/php-helpers",
     "description": "Libs webs",
     "autoload": {
         "psr-4": {
